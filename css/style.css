@@ -949,12 +949,6 @@ body {
 }
 .slider__item.slick-center {
   opacity: 1;
-  -webkit-transition: all 0.5s ease 0.25s;
-  -o-transition: all 0.5s ease 0.25s;
-  transition: all 0.5s ease 0.25s;
-  -webkit-transform: scale(1.1);
-      -ms-transform: scale(1.1);
-          transform: scale(1.1);
 }
 @media (max-width: 1000px) {
   .slider__item {
